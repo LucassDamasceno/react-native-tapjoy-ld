@@ -1,0 +1,17 @@
+node_modules/
+Example/
+android/build/
+/.github
+/examples
+.circleci/
+commitlint.config.js
+.DS_Store
+dist/
+*xcuserdata*
+android/.gradle
+android/.project
+android/.idea
+*.settings*
+*.iml
+.idea/
+.gradle/
